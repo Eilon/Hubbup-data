@@ -168,6 +168,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "MetaPackages",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "PlatformAbstractions",
         "inclusionLevel": "AllItems"
       },
@@ -199,6 +204,11 @@
       {
         "org": "aspnet",
         "repo": "Setup",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "SignalR",
         "inclusionLevel": "AllItems"
       },
       {
@@ -235,6 +245,11 @@
       {
         "org": "aspnet",
         "repo": "Antiforgery",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
+      {
+        "org": "aspnet",
+        "repo": "AspLabs",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -645,12 +660,22 @@
 
       {
         "org": "aspnet",
+        "repo": "AspLabs",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
+      {
+        "org": "aspnet",
         "repo": "aspnet-docker",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "aspnet-win-docker",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
+      {
+        "org": "aspnet",
+        "repo": "AzureIntegration",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -795,6 +820,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "MetaPackages",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
+      {
+        "org": "aspnet",
         "repo": "Microsoft.Data.Sqlite",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
@@ -851,6 +881,11 @@
       {
         "org": "aspnet",
         "repo": "Session",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
+      {
+        "org": "aspnet",
+        "repo": "SignalR",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -1128,6 +1163,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "MetaPackages",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "PlatformAbstractions",
         "inclusionLevel": "AllItems"
       },
@@ -1159,6 +1199,11 @@
       {
         "org": "aspnet",
         "repo": "Setup",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "SignalR",
         "inclusionLevel": "AllItems"
       },
       {
