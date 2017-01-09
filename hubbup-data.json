@@ -233,7 +233,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "WebListener",
+        "repo": "HttpSysServer",
         "inclusionLevel": "AllItems"
       },
       {
@@ -955,7 +955,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "WebListener",
+        "repo": "HttpSysServer",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -1228,7 +1228,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "WebListener",
+        "repo": "HttpSysServer",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1766,7 +1766,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "WebListener",
+        "repo": "HttpSysServer",
         "inclusionLevel": "AllItems"
       },
       {
@@ -2090,7 +2090,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "WebListener",
+        "repo": "HttpSysServer",
         "inclusionLevel": "AllItems"
       },
       {
