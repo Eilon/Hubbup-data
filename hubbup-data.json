@@ -1,7 +1,7 @@
 {
   "kcore": {
     "AssociatedPersonSetName": "Murat",
-    "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
+    "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress", "3 - Working" ],
     "RepoExtraLinks": [
       {
         "Title": "KoreBuild dashboard",
@@ -482,7 +482,12 @@
         "org": "omnisharp",
         "repo": "omnisharp-roslyn",
         "inclusionLevel": "ItemsAssignedToPersonSet"
-      }
+      },
+      {
+        "org": "SignalR",
+        "repo": "SignalR",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
     ]
   },
   "mvc": {
