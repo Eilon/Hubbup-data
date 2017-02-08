@@ -28,6 +28,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "AspNetKatana",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "aspnet-win-docker",
         "inclusionLevel": "AllItems"
       },
