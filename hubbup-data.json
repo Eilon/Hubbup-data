@@ -78,11 +78,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "CompilationAbstractions",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "CoreCLR",
         "inclusionLevel": "AllItems"
       },
@@ -715,11 +710,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "CompilationAbstractions",
-        "inclusionLevel": "ItemsAssignedToPersonSet"
-      },
-      {
-        "org": "aspnet",
         "repo": "Configuration",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
@@ -1074,11 +1064,6 @@
       {
         "org": "aspnet",
         "repo": "Coherence-Signed",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "CompilationAbstractions",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1641,11 +1626,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "CompilationAbstractions",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "CoreCLR",
         "inclusionLevel": "AllItems"
       },
@@ -1956,11 +1936,6 @@
       {
         "org": "aspnet",
         "repo": "Coherence-Signed",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "CompilationAbstractions",
         "inclusionLevel": "AllItems"
       },
       {
