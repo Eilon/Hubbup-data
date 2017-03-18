@@ -524,11 +524,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "aspnet.xunit",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "BuildTrain",
         "inclusionLevel": "AllItems"
       },
@@ -1239,11 +1234,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "aspnet.xunit",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Common",
         "inclusionLevel": "AllItems"
       },
@@ -1771,11 +1761,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "aspnet.xunit",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Common",
         "inclusionLevel": "AllItems"
       },
@@ -2086,11 +2071,6 @@
       {
         "org": "aspnet",
         "repo": "Antiforgery",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "aspnet.xunit",
         "inclusionLevel": "AllItems"
       },
       {
