@@ -1507,72 +1507,52 @@
     "Repos": [
       {
         "org": "aspnet",
-        "repo": "Announcements",
+        "repo": "BuildTools",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "BugTracker",
+        "repo": "Coherence",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "EndToEnd",
+        "repo": "Coherence-Final",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "External",
+        "repo": "Coherence-Patch",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "IBC",
+        "repo": "Coherence-Signed",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "kbot",
+        "repo": "CoreCLR",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "KExpense",
+        "repo": "Entropy",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "MusicStore-Authorization",
+        "repo": "KoreBuild",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "Perf",
+        "repo": "Infrastructure",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
-        "repo": "Performance",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "Reporting",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "specs",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "Stress",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "TeamCityTrigger",
+        "repo": "Universe",
         "inclusionLevel": "AllItems"
       }
     ]
