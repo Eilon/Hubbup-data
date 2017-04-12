@@ -524,28 +524,23 @@
       },
       {
         "org": "aspnet",
-        "repo": "BuildTrain",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Common",
         "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Final",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Patch",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Signed",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -565,7 +560,7 @@
       {
         "org": "aspnet",
         "repo": "BuildTools",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -580,7 +575,7 @@
       {
         "org": "aspnet",
         "repo": "Infrastructure",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
