@@ -4,10 +4,6 @@
     "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress", "3 - Working" ],
     "RepoExtraLinks": [
       {
-        "Title": "KoreBuild dashboard",
-        "Url": "https://korebuild.azurewebsites.net/"
-      },
-      {
         "Title": "ASP.NET CI",
         "Url": "http://aspnetci/"
       },
@@ -16,8 +12,12 @@
         "Url": "https://travis-ci.org/aspnet"
       },
       {
+        "Title": "Team OneNote",
+        "Url": "https://microsoft.sharepoint.com/teams/dotnetserver/SiteAssets/DotNetServer%20Notebook/"
+      },
+      {
         "Title": "ASP.NET Perf",
-        "Url": "http://aspnetperf.azurewebsites.net/"
+        "Url": "https://msit.powerbi.com/groups/b5743765-ec44-4dfc-91df-e32401023530/reports/54ab8db5-5f70-409a-b522-1eb107ce52ee/ReportSection"
       }
     ],
     "Repos": [
@@ -34,7 +34,7 @@
       {
         "org": "aspnet",
         "repo": "aspnet-win-docker",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -49,7 +49,7 @@
       {
         "org": "aspnet",
         "repo": "BuildTrain",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -59,27 +59,27 @@
       {
         "org": "aspnet",
         "repo": "Coherence",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Final",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Patch",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "Coherence-Signed",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "CoreCLR",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -89,17 +89,17 @@
       {
         "org": "aspnet",
         "repo": "dnvm",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "dnx",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "dotnet-do",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -109,7 +109,7 @@
       {
         "org": "aspnet",
         "repo": "Entropy",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -119,12 +119,12 @@
       {
         "org": "aspnet",
         "repo": "Helios",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "homebrew-dnx",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -149,7 +149,7 @@
       {
         "org": "aspnet",
         "repo": "KoreBuild",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -214,7 +214,7 @@
       {
         "org": "aspnet",
         "repo": "Signing",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -224,12 +224,12 @@
       {
         "org": "aspnet",
         "repo": "Universe",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
         "repo": "UserSecrets",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
@@ -487,7 +487,7 @@
         "org": "SignalR",
         "repo": "SignalR",
         "inclusionLevel": "ItemsAssignedToPersonSet"
-      },
+      }
     ]
   },
   "mvc": {
