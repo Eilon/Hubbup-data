@@ -229,7 +229,7 @@
       {
         "org": "aspnet",
         "repo": "UserSecrets",
-        "inclusionLevel": "ItemsAssignedToPersonSet"
+        "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
