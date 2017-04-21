@@ -644,7 +644,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "SecureTokenServer",
+        "repo": "IdentityService",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1026,6 +1026,11 @@
       }
     ],
     "Repos": [
+      {
+        "org": "aspnet",
+        "repo": "IdentityService",
+        "inclusionLevel": "AllItems"
+      },
       {
         "org": "aspnet",
         "repo": "aspnet-docker",
