@@ -1,0 +1,178 @@
+{
+  "Eilon": {
+    "People": [
+      "ajaybhargavb",
+      "dougbu",
+      "Eilon",
+      "javiercn",
+      "jbagga",
+      "kichalla",
+      "NTaylorMullen",
+      "pranavkm",
+      "ryanbrandenburg",
+      "rynowak",
+      "sebastienros"
+    ]
+  },
+  "Murat": {
+    "People": [
+      "anurse",
+      "BrennanConroy",
+      "cesarbs",
+      "davidfowl",
+      "halter73",
+      "JunTaoLuo",
+      "mikaelm12",
+      "mikeharder",
+      "moozzyk",
+      "muratg",
+      "natemcmaster",
+      "pakrym",
+      "Tratcher"
+    ]
+  },
+  "Diego": {
+    "People": [
+      "ajcvickers",
+      "AndriySvyryd",
+      "anpete",
+      "bricelam",
+      "divega",
+      "HaoK",
+      "lajones",
+      "maumar",
+      "rowanmiller",
+      "smitpatel"
+    ]
+  },
+  "aspnetef": {
+    "Import": [ "Murat", "Diego", "Eilon" ]
+  },
+  "perfers": {
+    "People": [
+      "davidfowl",
+      "halter73",
+      "rynowak",
+      "Tratcher",
+    ]
+  },
+  "Docs": {
+    "People": [
+      "ardalis",
+      "danroth27",
+      "Erikre",
+      "Rick-Anderson",
+      "TomArcher"
+    ]
+  },
+  "NuGet": {
+    "People": [
+      "danliu",
+      "deepakaravindr",
+      "emgarten",
+      "feiling",
+      "johntaylor",
+      "MeniZalzman",
+      "RanjiniM",
+      "xavierdecoster",
+      "yishaigalatzer",
+      "zhili1208"
+    ]
+  },
+  "corefx": {
+    "People": [
+      "adityamandaleeka",
+      "agocke",
+      "ahsonkhan",
+      "AlekseyTs",
+      "AlexGhiondea",
+      "alexperovich",
+      "AlfredoMS",
+      "AnthonyDGreen",
+      "AtsushiKan",
+      "bartonjs",
+      "bleroy",
+      "brthor",
+      "ChadNedzlek",
+      "chcosta",
+      "Chrisboh",
+      "CIPop",
+      "crummel",
+      "dagood",
+      "davidsh",
+      "davkean",
+      "davmason",
+      "dleapon",
+      "dsplaisted",
+      "eerhardt",
+      "ellismg",
+      "ericstj",
+      "FiveTimesTheFun",
+      "gafter",
+      "ianhays",
+      "jaredpar",
+      "JeremyKuhne",
+      "jhendrixMSFT",
+      "Jinhuafei",
+      "joperezr",
+      "josguil",
+      "joshfree",
+      "kapilash",
+      "karelz",
+      "khdang",
+      "kkurni",
+      "krwq",
+      "KrzysztofCwalina",
+      "Maoni0",
+      "maririos",
+      "markwilkie",
+      "MattGal",
+      "MattWhilden",
+      "mellinoe",
+      "mmitche",
+      "msftqingye",
+      "naamunds",
+      "nadiatk",
+      "nguerrera",
+      "pallavit",
+      "Petermarcu",
+      "piotrpMSFT",
+      "Priya91",
+      "rajansingh10",
+      "ramarag",
+      "richlander",
+      "saurabh500",
+      "SGuyGe",
+      "shmao",
+      "shrutigarg",
+      "SidharthNabar",
+      "sokket",
+      "stephentoub",
+      "steveharter",
+      "tarekgh",
+      "terrajobst",
+      "theoy",
+      "tmat",
+      "vancem",
+      "venkat-raman251",
+      "vijaykota",
+      "VSadov",
+      "weshaggard",
+      "YoungGah",
+      "zhenlan"
+    ]
+  },
+  "Mach": {
+    "People": [
+      "adamtuliper",
+      "ashanhol",
+      "gcrev93",
+      "heatherbshapiro",
+      "JamesEarle",
+      "jcocchi",
+      "joe1888",
+      "KSLHacks",
+      "Shanselman"
+    ]
+  }
+}
