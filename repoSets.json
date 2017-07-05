@@ -1372,7 +1372,7 @@
     ]
   },
   "pm": {
-    "AssociatedPersonSetName": "",
+    "AssociatedPersonSetName": "pms",
     "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
     "Repos": [
       {
