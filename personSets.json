@@ -48,6 +48,13 @@
   "aspnetef": {
     "Import": [ "Murat", "Diego", "Eilon" ]
   },
+  "pms": {
+    "People": [
+      "damianedwards",
+      "danroth27",
+      "glennc",
+    ]
+  },
   "perfers": {
     "People": [
       "davidfowl",
