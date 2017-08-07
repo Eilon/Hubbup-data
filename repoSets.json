@@ -467,6 +467,11 @@
         "repo": "Testing",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
+      {
+        "org": "aspnet",
+        "repo": "WebHooks",
+        "inclusionLevel": "ItemsAssignedToPersonSet"
+      },
 
       {
         "org": "dotnet",
@@ -645,6 +650,11 @@
       {
         "org": "aspnet",
         "repo": "Testing",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "WebHooks",
         "inclusionLevel": "AllItems"
       },
 
@@ -1330,6 +1340,11 @@
       {
         "org": "aspnet",
         "repo": "Testing",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "WebHooks",
         "inclusionLevel": "AllItems"
       },
       // ---
