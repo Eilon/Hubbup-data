@@ -18,6 +18,10 @@
       {
         "Title": "ASP.NET Perf",
         "Url": "https://msit.powerbi.com/groups/b5743765-ec44-4dfc-91df-e32401023530/reports/54ab8db5-5f70-409a-b522-1eb107ce52ee/ReportSection"
+      },
+      {
+        "Title": "2.1 Planning",
+        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "Repos": [
@@ -514,6 +518,10 @@
       {
         "Title": "ASP.NET Perf",
         "Url": "http://aspnetperf.azurewebsites.net/"
+      },
+      {
+        "Title": "2.1 Planning",
+        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "Repos": [
@@ -1028,6 +1036,10 @@
       {
         "Title": "Travis CI",
         "Url": "https://travis-ci.org/aspnet"
+      },
+      {
+        "Title": "2.1 Planning",
+        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "Repos": [
