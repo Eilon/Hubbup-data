@@ -299,7 +299,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -745,7 +745,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
@@ -977,7 +977,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1355,7 +1355,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1841,7 +1841,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "AllItems"
       },
       {
@@ -2165,7 +2165,7 @@
       },
       {
         "org": "aspnet",
-        "repo": "EntityFramework",
+        "repo": "EntityFrameworkCore",
         "inclusionLevel": "AllItems"
       },
       {
