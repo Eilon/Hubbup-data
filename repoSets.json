@@ -27,6 +27,11 @@
     "Repos": [
       {
         "org": "aspnet",
+        "repo": "AspNetCoreModule",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "aspnet-docker",
         "inclusionLevel": "AllItems"
       },
@@ -173,6 +178,11 @@
       {
         "org": "aspnet",
         "repo": "MetaPackages",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "new.dot.net",
         "inclusionLevel": "AllItems"
       },
       {
