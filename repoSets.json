@@ -597,6 +597,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "HttpClientFactory",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "Infrastructure",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
