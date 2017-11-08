@@ -602,6 +602,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "JavaScriptServices",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "jquery-ajax-unobtrusive",
         "inclusionLevel": "AllItems"
       },
@@ -663,6 +668,11 @@
       {
         "org": "aspnet",
         "repo": "IdentityService",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
+        "repo": "templating",
         "inclusionLevel": "AllItems"
       },
       {
