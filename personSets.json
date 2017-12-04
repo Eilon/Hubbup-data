@@ -8,10 +8,12 @@
     "People": [
       "ajaybhargavb",
       "dougbu",
+      "Eilon",
       "javiercn",
       "jbagga",
       "kichalla",
       "NTaylorMullen",
+      "mkArtakMSFT",
       "pranavkm",
       "ryanbrandenburg",
       "rynowak",
@@ -49,7 +51,7 @@
     ]
   },
   "aspnetef": {
-    "Import": [ "Murat", "Diego", "Eilon" ]
+    "Import": [ "Murat", "Diego", "Eilon", "mkArtakMSFT" ]
   },
   "pms": {
     "People": [
