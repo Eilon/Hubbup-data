@@ -294,7 +294,7 @@
       {
         "org": "aspnet",
         "repo": "DependencyInjection",
-        "inclusionLevel": "ItemsAssignedToPersonSet"
+        "inclusionLevel": "AllItems"
       },
       {
         "org": "aspnet",
@@ -573,7 +573,7 @@
       {
         "org": "aspnet",
         "repo": "DependencyInjection",
-        "inclusionLevel": "AllItems"
+        "inclusionLevel": "ItemsAssignedToPersonSet"
       },
       {
         "org": "aspnet",
