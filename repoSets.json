@@ -97,6 +97,11 @@
       },
       {
         "org": "aspnet",
+        "repo": "DependencyInjection",
+        "inclusionLevel": "AllItems"
+      },
+      {
+        "org": "aspnet",
         "repo": "dnvm",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
@@ -568,11 +573,6 @@
       {
         "org": "aspnet",
         "repo": "CORS",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "DependencyInjection",
         "inclusionLevel": "AllItems"
       },
       {
