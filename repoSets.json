@@ -393,11 +393,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "PackageSearch",
-        "inclusionLevel": "ItemsAssignedToPersonSet"
-      },
-      {
-        "org": "aspnet",
         "repo": "Performance",
         "inclusionLevel": "ItemsAssignedToPersonSet"
       },
@@ -643,11 +638,6 @@
       {
         "org": "aspnet",
         "repo": "MvcPrecompilation",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "PackageSearch",
         "inclusionLevel": "AllItems"
       },
       {
@@ -1346,11 +1336,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "PackageSearch",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Razor",
         "inclusionLevel": "AllItems"
       },
@@ -1838,11 +1823,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "PackageSearch",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Razor",
         "inclusionLevel": "AllItems"
       },
@@ -2153,11 +2133,6 @@
       {
         "org": "aspnet",
         "repo": "NodeServices",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "PackageSearch",
         "inclusionLevel": "AllItems"
       },
       {
