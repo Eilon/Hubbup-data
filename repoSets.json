@@ -637,11 +637,6 @@
       },
       {
         "org": "aspnet",
-        "repo": "MusicStoreAngular2",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
         "repo": "Mvc",
         "inclusionLevel": "AllItems"
       },
@@ -1337,11 +1332,6 @@
       {
         "org": "aspnet",
         "repo": "MusicStore",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "MusicStoreAngular2",
         "inclusionLevel": "AllItems"
       },
       {
@@ -2153,11 +2143,6 @@
       {
         "org": "aspnet",
         "repo": "MusicStore",
-        "inclusionLevel": "AllItems"
-      },
-      {
-        "org": "aspnet",
-        "repo": "MusicStoreAngular2",
         "inclusionLevel": "AllItems"
       },
       {
