@@ -203,7 +203,8 @@
         "aspnet/IdentityService",
         "aspnet/templating",
         "aspnet/Testing",
-        "aspnet/WebHooks"
+        "aspnet/WebHooks",
+        "aspnet/WebHooks-Signed"
       ],
       "AssignedToPersonSet": [
         "aspnet/Coherence-Final",
@@ -306,7 +307,31 @@
         "aspnet/vsweb-docs",
         "aspnet/vsweb-publish",
         "aspnet/Wave",
-        "aspnet/websdk"
+        "aspnet/websdk",
+        "aspnet/aspnetci-nugetsyncbuddy",
+        "aspnet/AspNetOutputCache",
+        "aspnet/AspNetSessionState",
+        "aspnet/AzureCache",
+        "aspnet/AzureCacheCI",
+        "aspnet/get.asp.net",
+        "aspnet/homebrew-dnx",
+        "aspnet/kbot",
+        "aspnet/LibraryInstaller",
+        "aspnet/live.asp.net",
+        "aspnet/LocalCache",
+        "aspnet/MicrosoftConfigurationBuilders",
+        "aspnet/new.dot.net",
+        "aspnet/PatchTool",
+        "aspnet/RedisShim",
+        "aspnet/RoslynCodeDomProvider",
+        "aspnet/SystemWebception",
+        "aspnet/teamcity-azure-active-directory",
+        "aspnet/TeamCityTrigger",
+        "aspnet/Tooling-Internal",
+        "aspnet/Tooling-ManualTests",
+        "aspnet/uxprototypes",
+        "aspnet/xdt"
+
       ]
     }
   },
