@@ -331,7 +331,6 @@
         "aspnet/Tooling-ManualTests",
         "aspnet/uxprototypes",
         "aspnet/xdt"
-
       ]
     }
   },
@@ -1314,5 +1313,58 @@
         "inclusionLevel": "AllItems"
       }
     ]
+  },
+  "mvcTriage": {
+    "AssociatedPersonSetName": "mkArtakMSFT",
+    "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
+    "RepoExtraLinks": [
+      {
+        "Title": "KoreBuild dashboard",
+        "Url": "https://korebuild.azurewebsites.net/"
+      },
+      {
+        "Title": "ASP.NET CI",
+        "Url": "http://aspnetci/"
+      },
+      {
+        "Title": "Travis CI",
+        "Url": "https://travis-ci.org/aspnet"
+      },
+      {
+        "Title": "ASP.NET Perf",
+        "Url": "http://aspnetperf.azurewebsites.net/"
+      },
+      {
+        "Title": "2.1 Planning",
+        "Url": "https://github.com/orgs/aspnet/projects/7"
+      }
+    ],
+    "RepoSetInclusions": {
+      "AllItems": [
+        "aspnet/Antiforgery",
+        "aspnet/AspNetWebStack",
+        "aspnet/Common",
+        "aspnet/CORS",
+        "aspnet/Diagnostics",
+        "aspnet/EventNotification",
+        "aspnet/HtmlAbstractions",
+        "aspnet/HttpClientFactory",
+        "aspnet/jquery-ajax-unobtrusive",
+        "aspnet/jquery-validation-unobtrusive",
+        "aspnet/JsonPatch",
+        "aspnet/Localization",
+        "aspnet/Mvc",
+        "aspnet/MvcPrecompilation",
+        "aspnet/Razor",
+        "aspnet/RazorTooling",
+        "aspnet/Routing",
+        "aspnet/IdentityService",
+        "aspnet/Testing",
+        "aspnet/WebHooks",
+        "aspnet/WebHooks-Signed"
+      ],
+      "AssignedToPersonSet": [],
+      "Ignore": []
+    }
   }
 }
