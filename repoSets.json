@@ -205,6 +205,7 @@
         "aspnet/WebHooks-Signed"
       ],
       "AssignedToPersonSet": [
+        "aspnet/Blazor",
         "aspnet/Coherence-Final",
         "aspnet/Coherence-Patch",
         "aspnet/Coherence-Signed",
