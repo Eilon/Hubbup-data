@@ -182,6 +182,8 @@
     "RepoSetInclusions": {
       "AllItems": [
         "aspnet/Antiforgery",
+        "aspnet/AspNetWebHooks",
+        "aspnet/AspNetWebHooks-signed",
         "aspnet/AspNetWebStack",
         "aspnet/Common",
         "aspnet/CORS",
@@ -195,6 +197,7 @@
         "aspnet/Localization",
         "aspnet/MusicStore",
         "aspnet/Mvc",
+        "aspnet/Mvc-Private",
         "aspnet/MvcPrecompilation",
         "aspnet/Razor",
         "aspnet/RazorTooling",
@@ -259,6 +262,7 @@
         "aspnet/Stress",
         "aspnet/templating",
         "aspnet/Universe",
+        "aspnet/Universe-Private",
         "aspnet/UserSecrets",
         "aspnet/HttpSysServer",
         "aspnet/WebSockets",
