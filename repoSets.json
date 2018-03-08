@@ -52,6 +52,7 @@
         "aspnet/Session",
         "aspnet/Setup",
         "aspnet/SignalR",
+        "aspnet/SignalR-samples",
         "aspnet/StaticFiles",
         "aspnet/UserSecrets",
         "aspnet/HttpSysServer",
