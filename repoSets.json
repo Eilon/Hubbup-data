@@ -204,6 +204,7 @@
         "aspnet/MvcPrecompilation",
         "aspnet/Razor",
         "aspnet/RazorTooling",
+        "aspnet/Razor.LiveShare",
         "aspnet/Routing",
         "aspnet/IdentityService",
         "aspnet/Testing",
