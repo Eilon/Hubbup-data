@@ -193,7 +193,6 @@
         "aspnet/Diagnostics",
         "aspnet/EventNotification",
         "aspnet/HtmlAbstractions",
-        "aspnet/HttpClientFactory",
         "aspnet/jquery-ajax-unobtrusive",
         "aspnet/jquery-validation-unobtrusive",
         "aspnet/JsonPatch",
