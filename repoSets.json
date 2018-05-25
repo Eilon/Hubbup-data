@@ -29,6 +29,7 @@
         "aspnet/AspNetCoreModule",
         "aspnet/aspnet-docker",
         "aspnet/AspNetKatana",
+        "aspnet/AuthSamples",
         "aspnet/AzureIntegration",
         "aspnet/BasicMiddleware",
         "aspnet/Caching",
@@ -213,6 +214,7 @@
         "aspnet/AADIntegration"
       ],
       "AssignedToPersonSet": [
+        "aspnet/AuthSamples",
         "aspnet/Blazor",
         "aspnet/Coherence-Final",
         "aspnet/Coherence-Patch",
