@@ -206,6 +206,7 @@
         "aspnet/Razor",
         "aspnet/RazorTooling",
         "aspnet/Razor.LiveShare",
+        "aspnet/Razor.VSCode",
         "aspnet/Routing",
         "aspnet/IdentityService",
         "aspnet/Testing",
