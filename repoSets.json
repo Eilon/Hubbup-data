@@ -210,6 +210,7 @@
         "aspnet/Routing",
         "aspnet/IdentityService",
         "aspnet/Testing",
+        "aspnet/Templating",
         "aspnet/WebHooks",
         "aspnet/WebHooks-Signed",
         "aspnet/AADIntegration"
@@ -1498,6 +1499,7 @@
         "aspnet/Routing",
         "aspnet/IdentityService",
         "aspnet/Testing",
+        "aspnet/Templating",
         "aspnet/WebHooks",
         "aspnet/WebHooks-Signed"
       ],
