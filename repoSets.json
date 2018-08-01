@@ -270,7 +270,6 @@
         "aspnet/SignalR",
         "aspnet/StaticFiles",
         "aspnet/Stress",
-        "aspnet/templating",
         "aspnet/Universe",
         "aspnet/Universe-Private",
         "aspnet/UserSecrets",
