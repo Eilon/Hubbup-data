@@ -374,16 +374,8 @@
     "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
     "RepoExtraLinks": [
       {
-        "Title": "KoreBuild dashboard",
-        "Url": "https://korebuild.azurewebsites.net/"
-      },
-      {
         "Title": "ASP.NET CI",
         "Url": "http://aspnetci/"
-      },
-      {
-        "Title": "Travis CI",
-        "Url": "https://travis-ci.org/aspnet"
       },
       {
         "Title": "2.1 Planning",
@@ -392,20 +384,15 @@
     ],
     "RepoSetInclusions": {
       "AllItems": [
-        "aspnet/IdentityService",
         "aspnet/aspnet-docker",
         "aspnet/AzureIntegration",
         "aspnet/BasicMiddleware",
         "aspnet/Caching",
-        "aspnet/Coherence",
-        "aspnet/Coherence-Signed",
         "aspnet/CoreCLR",
         "aspnet/DataProtection",
         "aspnet/DotNetTools",
-        "aspnet/Entropy",
         "aspnet/FileSystem",
-        "aspnet/Helios",
-        "aspnet/Home",
+        "aspnet/AspNetCore",
         "aspnet/Hosting",
         "aspnet/HttpAbstractions",
         "aspnet/IISIntegration",
@@ -431,8 +418,8 @@
         "aspnet/HttpSysServer",
         "aspnet/WebSockets",
         "aspnet/Antiforgery",
-        "aspnet/Common",
-        "aspnet/Coherence-Signed",
+        "aspnet/Extensions",
+        "aspnet/AspNetCore-Internal",
         "aspnet/CORS",
         "aspnet/DependencyInjection",
         "aspnet/Diagnostics",
@@ -443,7 +430,6 @@
         "aspnet/jquery-validation-unobtrusive",
         "aspnet/JsonPatch",
         "aspnet/Localization",
-        "aspnet/MusicStore",
         "aspnet/Mvc",
         "aspnet/MvcPrecompilation",
         "aspnet/Razor",
