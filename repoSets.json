@@ -371,15 +371,10 @@
   },
   "k-ship": {
     "AssociatedPersonSetName": "aspnetef",
-    "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
     "RepoExtraLinks": [
       {
         "Title": "ASP.NET CI",
         "Url": "http://aspnetci/"
-      },
-      {
-        "Title": "2.1 Planning",
-        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "RepoSetInclusions": {
@@ -388,7 +383,6 @@
         "aspnet/AzureIntegration",
         "aspnet/BasicMiddleware",
         "aspnet/Caching",
-        "aspnet/CoreCLR",
         "aspnet/DataProtection",
         "aspnet/DotNetTools",
         "aspnet/FileSystem",
@@ -453,6 +447,7 @@
       "AssignedToPersonSet": [
       ],
       "Ignore": [
+        "aspnet/CoreCLR",
         "aspnet/Docs.cs-cz",
         "aspnet/Docs.de-de",
         "aspnet/Docs.es-es",
