@@ -8,27 +8,38 @@
         "Url": "http://aspnetci/"
       },
       {
-        "Title": "Travis CI",
-        "Url": "https://travis-ci.org/aspnet"
-      },
-      {
         "Title": "Team OneNote",
         "Url": "https://microsoft.sharepoint.com/teams/dotnetserver/SiteAssets/DotNetServer%20Notebook/"
       },
       {
         "Title": "ASP.NET Perf",
         "Url": "https://msit.powerbi.com/groups/b5743765-ec44-4dfc-91df-e32401023530/reports/54ab8db5-5f70-409a-b522-1eb107ce52ee/ReportSection"
-      },
-      {
-        "Title": "2.1 Planning",
-        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "RepoSetInclusions": {
       "AllItems": [
-        "aspnet/AspNetCoreModule",
-        "aspnet/aspnet-docker",
+        "aspnet/AspNetCore",
+        "aspnet/AspNetCore-Internal",
+        "aspnet/AspLabs",
+        "aspnet/Extensions",
         "aspnet/AspNetKatana",
+
+        "aspnet/aspnet-docker",
+        "aspnet/libuv-build",
+        "aspnet/libuv-package"
+      ],
+      "AssignedToPersonSet": [
+        "aspnet/BuildTools",
+        "aspnet/Docs",
+        "aspnet/EntityFrameworkCore",
+        "dotnet/cli",
+        "dotnet/corefx",
+        "omnisharp/omnisharp-roslyn",
+        "SignalR/SignalR"
+      ],
+      "Ignore": [
+        "aspnet/AADIntegration",
+        "aspnet/AspNetCoreModule",
         "aspnet/AuthSamples",
         "aspnet/AzureIntegration",
         "aspnet/BasicMiddleware",
@@ -40,9 +51,7 @@
         "aspnet/HttpAbstractions",
         "aspnet/IISIntegration",
         "aspnet/KestrelHttpServer",
-        "aspnet/KestrelHttpServer-private",        
-        "aspnet/libuv-build",
-        "aspnet/libuv-package",
+        "aspnet/KestrelHttpServer-private",
         "aspnet/Logging",
         "aspnet/MetaPackages",
         "aspnet/new.dot.net",
@@ -60,15 +69,13 @@
         "aspnet/UserSecrets",
         "aspnet/HttpSysServer",
         "aspnet/WebSockets",
-        "aspnet/DependencyInjection"
-      ],
-      "AssignedToPersonSet": [
+        "aspnet/DependencyInjection",
+
         "aspnet/aspnet-win-docker",
         "aspnet/BuildTrain",
         "aspnet/Coherence",
         "aspnet/Coherence-Final",
         "aspnet/Coherence-Patch",
-        "aspnet/Coherence-Signed",
         "aspnet/CoreCLR",
         "aspnet/dnvm",
         "aspnet/dnx",
@@ -78,7 +85,6 @@
         "aspnet/homebrew-dnx",
         "aspnet/KoreBuild",
         "aspnet/Antiforgery",
-        "aspnet/AspLabs",
         "aspnet/benchmarks",
         "aspnet/BugTracker",
         "aspnet/Common",
@@ -86,8 +92,6 @@
         "aspnet/CORS",
         "aspnet/Diagnostics",
         "aspnet/BuildTools",
-        "aspnet/Docs",
-        "aspnet/EntityFrameworkCore",
         "aspnet/EventNotification",
         "aspnet/Home",
         "aspnet/HtmlAbstractions",
@@ -123,13 +127,7 @@
         "aspnet/Templates",
         "aspnet/Testing",
         "aspnet/WebHooks",
-        "dotnet/cli",
-        "dotnet/corefx",
-        "omnisharp/omnisharp-roslyn",
-        "SignalR/SignalR",
-        "aspnet/AADIntegration"
-      ],
-      "Ignore": [
+
         "aspnet/Docs.cs-cz",
         "aspnet/Docs.de-de",
         "aspnet/Docs.es-es",
@@ -164,39 +162,42 @@
     "WorkingLabels": [ "2 - Working", "1 - Working", "2 - In Progress" ],
     "RepoExtraLinks": [
       {
-        "Title": "KoreBuild dashboard",
-        "Url": "https://korebuild.azurewebsites.net/"
-      },
-      {
         "Title": "ASP.NET CI",
         "Url": "http://aspnetci/"
-      },
-      {
-        "Title": "Travis CI",
-        "Url": "https://travis-ci.org/aspnet"
-      },
-      {
-        "Title": "ASP.NET Perf",
-        "Url": "http://aspnetperf.azurewebsites.net/"
-      },
-      {
-        "Title": "2.1 Planning",
-        "Url": "https://github.com/orgs/aspnet/projects/7"
       }
     ],
     "RepoSetInclusions": {
       "AllItems": [
+        "aspnet/AspNetCore",
+        "aspnet/AspNetCore-Internal",
+        "aspnet/AspLabs",
+        "aspnet/Extensions",
+        "aspnet/AspNetWebStack",
+
+        "aspnet/BuildTools",
+        "aspnet/Blazor",
+        "aspnet/jquery-ajax-unobtrusive",
+        "aspnet/jquery-validation-unobtrusive",
+        "aspnet/Razor.LiveShare",
+        "aspnet/Razor.VSCode"
+      ],
+      "AssignedToPersonSet": [
+        "aspnet/BuildTools",
+        "aspnet/Docs",
+        "aspnet/EntityFrameworkCore",
+
+        "dotnet/cli"
+      ],
+      "Ignore": [
+        "aspnet/AuthSamples",
+        "aspnet/AspNetKatana",
         "aspnet/Antiforgery",
         "aspnet/AspNetWebHooks",
         "aspnet/AspNetWebHooks-signed",
-        "aspnet/AspNetWebStack",
-        "aspnet/Common",
         "aspnet/CORS",
         "aspnet/Diagnostics",
         "aspnet/EventNotification",
         "aspnet/HtmlAbstractions",
-        "aspnet/jquery-ajax-unobtrusive",
-        "aspnet/jquery-validation-unobtrusive",
         "aspnet/JsonPatch",
         "aspnet/Localization",
         "aspnet/MusicStore",
@@ -205,24 +206,16 @@
         "aspnet/MvcPrecompilation",
         "aspnet/Razor",
         "aspnet/RazorTooling",
-        "aspnet/Razor.LiveShare",
-        "aspnet/Razor.VSCode",
         "aspnet/Routing",
         "aspnet/IdentityService",
         "aspnet/Testing",
         "aspnet/Templating",
         "aspnet/WebHooks",
         "aspnet/WebHooks-Signed",
-        "aspnet/AADIntegration"
-      ],
-      "AssignedToPersonSet": [
-        "aspnet/AuthSamples",
-        "aspnet/Blazor",
+        "aspnet/AADIntegration",
         "aspnet/Coherence-Final",
         "aspnet/Coherence-Patch",
-        "aspnet/Coherence-Signed",
         "aspnet/DependencyInjection",
-        "aspnet/BuildTools",
         "aspnet/Infrastructure",
         "aspnet/AspLabs",
         "aspnet/aspnet-docker",
@@ -236,20 +229,17 @@
         "aspnet/Configuration",
         "aspnet/CoreCLR",
         "aspnet/DataProtection",
-        "aspnet/Docs",
         "aspnet/DotNetTools",
-        "aspnet/EntityFrameworkCore",
         "aspnet/Entropy",
         "aspnet/FileSystem",
         "aspnet/Helios",
-        "aspnet/Home",
         "aspnet/Hosting",
         "aspnet/HttpAbstractions",
         "aspnet/Identity",
         "aspnet/IISIntegration",
         "aspnet/JavaScriptServices",
         "aspnet/KestrelHttpServer",
-        "aspnet/KestrelHttpServer-private",        
+        "aspnet/KestrelHttpServer-private",
         "aspnet/KoreBuild",
         "aspnet/libuv-build",
         "aspnet/libuv-package",
@@ -275,9 +265,7 @@
         "aspnet/UserSecrets",
         "aspnet/HttpSysServer",
         "aspnet/WebSockets",
-        "dotnet/cli"
-      ],
-      "Ignore": [
+
         "aspnet/Docs.cs-cz",
         "aspnet/Docs.de-de",
         "aspnet/Docs.es-es",
